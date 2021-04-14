@@ -3,8 +3,8 @@
 ## I'm beginer Unity developer
 
 ## Stats
-[![Deaenuga's GitHub stats](https://github-readme-stats.vercel.app/api?username=deaenuga&show_icons=true&bg_color=DEG,66c1bf,f28a19,e72380&title_color=d1d1d1&text_color=d1d1d1&border_radius=15&icon_color=e72380)](https://github.com/deaenuga)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deaenuga&layout=compact&bg_color=DEG,66c1bf,f28a19,e72380&title_color=d1d1d1&text_color=d1d1d1&border_radius=15&icon_color=e72380)](https://github.com/anuraghazra/github-readme-stats)
+[![Deaenuga's GitHub stats](https://github-readme-stats.vercel.app/api?username=deaenuga&show_icons=true&bg_color=DEG,66c1bf,f28a19,e72380&title_color=d1d1d1&text_color=ffffff&border_radius=15&icon_color=e72380)](https://github.com/deaenuga)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deaenuga&layout=compact&bg_color=DEG,66c1bf,f28a19,e72380&title_color=d1d1d1&text_color=ffffff&border_radius=15&icon_color=e72380)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Languages and Tools
 ![C#](https://img.shields.io/badge/-.NET-66c1bf?style=for-the-badge)
